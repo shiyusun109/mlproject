@@ -9,10 +9,8 @@ catboost
 xgboost
 nbformat
 dill
-
+Flask
 #-e . 
 
 # install stable packages if without -e .
 
-# 1. setup github repository, new environment, and requirements.txt. 
-# 2. 

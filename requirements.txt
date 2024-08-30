@@ -3,11 +3,9 @@ numpy
 seaborn
 matplotlib
 plotly
-tensorflow
 scikit-learn
 catboost
 xgboost
-nbformat
 dill
 Flask
 #-e . 

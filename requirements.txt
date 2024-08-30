@@ -9,9 +9,10 @@ catboost
 xgboost
 nbformat
 dill
-# install stable packages if without -e .
+
 #-e . 
 
+# install stable packages if without -e .
 
-#resume: 1. setup github repository, new environment, and requirements.txt. 
+# 1. setup github repository, new environment, and requirements.txt. 
 # 2. 
